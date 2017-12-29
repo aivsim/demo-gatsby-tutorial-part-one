@@ -1,15 +1,11 @@
 # Demo site
-[Gatsby](https://www.aivsim-gatsby-tutorial-part-one.surge.sh)
+http://www.aivsim-demo-gatsby-tutorial-part-one.surge.sh
 
-# Install gatsby
+# Commands:
 `npm install --global gatsby`
-
-# Install npm packages
 `npm install`
+`gatsby develop` (localhost:8000)
 
-## Running in development
-`gatsby develop`
-
-## For making a build
 `gatsby build`
-
+`npm install --global surge`
+`surge ./public`
